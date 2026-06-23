@@ -2,7 +2,6 @@
 
 import { useEffect, useRef, useState, useCallback } from "react";
 import { supabase } from "@/app/lib/supabase";
-
 // ─── Types ────────────────────────────────────────────────────────────────────
 type Message = {
   id: string;
@@ -24,12 +23,10 @@ type Consultation = {
   doctor_id: string | null;
   created_at: string;
 };
-
 type OtherParty = {
   id: string;
   full_name: string;
 };
-
 export type ChatInboxProps = {
   currentUserId: string;
   currentUserType: "patient" | "doctor";
