@@ -1,4 +1,4 @@
-# TelCare — Offline-First Telemedicine Platform
+# TelCare — Offline First Telemedicine Platform
 
 TelCare is a modern **offline-first telemedicine platform** designed to improve healthcare accessibility in rural and low-bandwidth regions. The platform enables users to perform AI-powered symptom analysis, consult doctors remotely, manage digital health records, analyze lab reports, and locate medicines or pharmacies—all while maintaining reliability under unstable internet conditions.
 
